@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aniket Mund
 - 👀 I’m currently hooked on Data Anaysis and Android Development
-- 🌱 I’m currently in 1st year of college(Bachelor of Computer Applications
+- 🌱 I’m currently in 1st year of college(Bachelor of Computer Applications)
 - 💞️ I’m looking to collaborate on android projects for learning
 - 📫 Instagram-@aniket021
 
