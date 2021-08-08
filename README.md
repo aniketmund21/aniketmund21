@@ -3,7 +3,7 @@
 - 🌱 I’m currently in 1st year of college(Bachelor of Computer Applications)
 - 💞️ I’m looking to collaborate on android projects for learning
 - 📫 Instagram-@aniket021
-
+- ✨ Currently studying JavaScript
 
 <!---
 aniketmund21/aniketmund21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
